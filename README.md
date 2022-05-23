@@ -26,11 +26,15 @@ If you have a copy of the roms for mame, you can copy them from the mame roms di
 
     ./src/build/ubee512 --model=p128k -a ./disks/boot.dsk -b disks/ubee512_cpm_tools.ds40_
     ./src/build/ubee512 --model=pc85 --conio --tapfilei=DiamondD.tap
+    ./src/build/ubee512 --help
 
 ## Documentation
 
 The full manual can be found under [doc/README.md](doc/README.md)
+
 The quickstart guide can be found under [doc/QuickStart.md](doc/QuickStart.md)
+
+The compilation guide can be found under [doc/INSTALL.md](doc/INSTALL.md)
 
 This is an unoffical fork of the uBee512 source. For more information, see the Microbee Forum at https://microbeetechnology.com.au/forum/
 

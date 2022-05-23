@@ -1,8 +1,9 @@
 ********************************************************************************
-                                    uBee512
 
-         An emulator for the Microbee Z80 ROM, FDD and HDD based models.
-                         Copyright (C) 2007-2016 uBee
+# uBee512
+
+An emulator for the Microbee Z80 ROM, FDD and HDD based models.
+Copyright (C) 2007-2016 uBee
 
 For contact details please see the 'Contact' section at the end of this file.
 ********************************************************************************
